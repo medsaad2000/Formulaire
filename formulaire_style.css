@@ -1,0 +1,30 @@
+body {
+    background-image: url("website.jpeg");
+    background-color: #cccccc;
+   }
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#4b8bbe;
+    text-align: center;
+}
+.nomp {
+    width:50%;
+ 
+}
+.adresse{
+    width:50%;  
+}
+.pyth{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:10%;
+    
+}
+.description{
+    font-size: 25px;
+    border-width:2px;
+    border-style:double;
+    border-color:grey;
+}
